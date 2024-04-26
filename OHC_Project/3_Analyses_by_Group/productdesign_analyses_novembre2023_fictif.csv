@@ -1,0 +1,95 @@
+anciennete,campement,OFA,tribu,etabli,quartier,activites_tribu,interactions_tribu,tribu_total,activites_QA,interactions_QA,QA_total,manages,Es-tu manager/manageuse ?,"Si tu es manager/manageuse, combien de managé.e.s direct(s) as-tu ?",manager,egalite_pro,competences_parcours,sante_conditions_travail,OCTO_total,statut6mois,missions_taches
+Plus de 7 ans,OCTO Paris,Oui,User Research,Design,Product & Design,4.75,3.75,4.25,4.5,3.5,4.0,6.0,Non,,,4.25,3.75,4.2,4.55,En mission chez un/des client(s),5.0
+Moins de 1 an,OCTO Paris,Oui,User Research,Design,Product & Design,3.75,3.75,3.75,4.5,3.5,4.0,6.0,Non,,,4.5,3.75,3.6,4.4625,En mission chez un/des client(s),3.0
+Entre 3 et 7 ans,OCTO Paris,Oui,User Research,Design,Product & Design,5.25,2.75,4.0,4.5,3.5,4.0,6.0,Non,,,5.25,4.5,3.0,4.6875,En mission chez un/des client(s),4.0
+Moins de 1 an,OCTO Paris,Oui,User Research,Design,Product & Design,5.0,5.0,5.0,4.5,3.5,4.0,6.0,Non,,,5.5,2.75,3.6,4.4625,En mission chez un/des client(s),5.0
+Entre 3 et 7 ans,OCTO Paris,Oui,User Research,Design,Product & Design,2.5,2.0,2.25,4.5,3.5,4.0,6.0,Non,,,3.5,3.5,3.2,4.05,En mission chez un/des client(s),2.0
+Entre 1 et 3 ans,OCTO Paris,Oui,User Research,Design,Product & Design,5.75,4.75,5.25,4.5,3.5,4.0,6.0,Non,,,2.75,2.75,3.0,3.625,En mission chez un/des client(s),3.5
+Entre 3 et 7 ans,OCTO Paris,Oui,User Research,Design,Product & Design,4.75,4.25,4.5,4.5,3.5,4.0,6.0,Oui,,6.0,4.5,5.25,4.0,5.15,En mission chez un/des client(s),4.5
+Entre 3 et 7 ans,OCTO Paris,Oui,User Research,Design,Product & Design,3.75,4.75,4.25,4.5,3.5,4.0,6.0,Oui,,6.0,3.75,2.5,3.0,4.25,En mission chez un/des client(s),5.0
+Entre 3 et 7 ans,OCTO Paris,Oui,User Research,Design,Product & Design,3.25,3.25,3.25,4.5,3.5,4.0,6.0,Oui,,6.0,3.5,3.75,5.2,4.89,En mission chez un/des client(s),6.0
+Moins de 1 an,OCTO Paris,Oui,User Research,Design,Product & Design,3.75,4.25,4.0,4.75,3.75,4.25,6.0,Non,,,4.75,3.75,3.4,4.475,En mission chez un/des client(s),4.0
+Plus de 7 ans,OCTO Paris,Oui,User Research,Design,Product & Design,5.0,4.0,4.5,3.75,3.75,3.75,6.0,Non,,,3.75,5.25,2.4,4.35,En mission chez un/des client(s),5.0
+Entre 1 et 3 ans,OCTO Paris,Oui,User Research,Design,Product & Design,2.25,3.25,2.75,5.25,2.75,4.0,6.0,Non,,,4.0,4.0,4.2,4.55,En mission chez un/des client(s),4.5
+Plus de 7 ans,Toulouse,Non,A,Produit,Product & Design,5.0,3.25,4.125,5.0,5.0,5.0,6.0,Non,,,4.25,3.75,3.0,4.25,En mission chez un/des client(s),3.0
+Entre 1 et 3 ans,Chtis,Non,B,Coach,Product & Design,4.25,5.0,4.625,2.5,2.0,2.25,6.0,Non,,,4.75,3.75,3.2,4.425,En mission chez un/des client(s),7.0
+Entre 3 et 7 ans,Toulouse,Non,C,Coach,Product & Design,4.0,3.5,3.75,5.75,4.75,5.25,6.0,Non,,,5.5,3.25,3.8,4.6375,En mission chez un/des client(s),3.5
+Entre 1 et 3 ans,Chtis,Non,D,Coach,Product & Design,3.25,4.0,3.625,4.75,4.25,4.5,6.0,Oui,,6.0,4.5,5.0,3.8,5.0600000000000005,En mission chez un/des client(s),5.0
+Entre 3 et 7 ans,Toulouse,Non,E,Coach,Product & Design,5.25,4.5,4.875,3.75,4.75,4.25,6.0,Oui,,6.0,3.5,3.5,3.4,4.4799999999999995,En mission chez un/des client(s),6.0
+Moins de 1 an,OCTO Paris,Non,F,Coach,Product & Design,4.5,6.5,5.5,3.25,3.25,3.25,6.0,Oui,,6.0,4.25,3.0,5.2,4.89,En mission chez un/des client(s),4.5
+Entre 3 et 7 ans,OCTO Paris,Non,G,Coach,Product & Design,4.25,3.25,3.75,3.75,4.25,4.0,6.0,Non,,,4.0,5.75,4.6,5.0875,En mission chez un/des client(s),6.0
+Entre 3 et 7 ans,OCTO Paris,Non,H,Coach,Product & Design,3.25,3.25,3.25,5.0,4.0,4.5,6.0,Non,,,4.0,5.5,4.6,5.025,missions et intercontrat,5.25
+Entre 3 et 7 ans,OCTO Paris,Non,User Research,Coach,Product & Design,3.0,4.5,3.75,2.25,3.25,2.75,6.0,Oui,,6.0,4.0,2.25,5.0,4.65,missions et intercontrat,5.75
+Moins de 1 an,OCTO Paris,Non,User Research,Coach,Product & Design,3.25,3.0,3.125,5.0,3.25,4.125,6.0,Non,,,2.75,3.5,5.0,4.3125,missions et intercontrat,3.25
+Plus de 7 ans,OCTO Paris,Non,User Research,Coach,Product & Design,2.25,5.0,3.625,4.25,5.0,4.625,6.0,Non,,,4.0,4.0,5.2,4.8,missions et intercontrat,2.75
+Entre 1 et 3 ans,OCTO Paris,Non,A,Coach,Product & Design,4.75,4.5,4.625,4.0,3.5,3.75,6.0,Non,,,4.75,5.0,3.6,4.8375,missions et intercontrat,2.5
+Moins de 1 an,OCTO Paris,Non,B,Coach,Product & Design,3.75,3.75,3.75,3.25,4.0,3.625,6.0,Non,,,4.75,4.5,3.4,4.6625,missions et intercontrat,2.0
+Plus de 7 ans,Toulouse,Non,C,Coach,Product & Design,4.75,3.5,4.125,5.25,4.5,4.875,6.0,Non,,,3.75,2.25,5.2,4.3,intercontrat,2.0
+Entre 3 et 7 ans,Chtis,Non,D,Coach,Product & Design,4.25,4.5,4.375,4.5,6.5,5.5,6.0,Non,,,2.25,3.75,3.6,3.9,intercontrat,1.0
+Moins de 1 an,Toulouse,Non,E,Coach,Product & Design,3.75,4.0,3.875,4.25,3.25,3.75,6.0,Non,,,5.75,5.0,3.8,5.1375,intercontrat,3.0
+Plus de 7 ans,Chtis,Non,F,Coach,Product & Design,3.25,4.0,3.625,3.25,3.25,3.25,6.0,Non,,,4.25,4.25,3.4,4.475,intercontrat,2.0
+Entre 1 et 3 ans,Toulouse,Non,G,Coach,Product & Design,3.5,1.75,2.625,5.5,4.25,4.875,6.0,Non,,,5.5,4.5,4.2,5.05,intercontrat,7.0
+Plus de 7 ans,OCTO Paris,Non,H,Coach,Product & Design,4.25,4.0,4.125,4.75,3.5,4.125,6.0,Non,,,4.25,2.0,3.4,3.9125,intercontrat,1.0
+Entre 3 et 7 ans,OCTO Paris,Non,User Research,Coach,Product & Design,4.25,3.75,4.0,4.25,4.5,4.375,6.0,Non,,,3.25,4.0,3.4,4.1625,intercontrat,1.0
+Moins de 1 an,OCTO Paris,Non,User Research,Coach,Product & Design,4.25,2.25,3.25,3.75,4.0,3.875,3.0,Oui,,3.0,2.0,4.25,4.4,3.3299999999999996,intercontrat,2.0
+Entre 3 et 7 ans,OCTO Paris,Non,User Research,Coach,Product & Design,6.5,3.75,5.125,3.25,4.0,3.625,3.0,Oui,,3.0,4.5,4.5,4.4,3.88,intercontrat,6.0
+Entre 1 et 3 ans,OCTO Paris,Non,A,Coach,Product & Design,4.75,4.25,4.5,3.5,1.75,2.625,3.0,Oui,,3.0,3.75,5.0,5.4,4.029999999999999,intercontrat,4.0
+Entre 3 et 7 ans,OCTO Paris,Non,B,Coach,Product & Design,3.0,6.0,4.5,4.25,4.0,4.125,3.0,Non,,,2.75,2.25,3.8,2.95,intercontrat,6.0
+Entre 1 et 3 ans,OCTO Paris,Non,C,Coach,Product & Design,4.5,5.5,5.0,4.25,3.75,4.0,3.0,Non,,,4.0,6.25,4.0,4.3125,intercontrat,4.0
+Entre 3 et 7 ans,OCTO Paris,Non,D,Coach,Product & Design,2.5,2.25,2.375,4.25,2.25,3.25,3.0,Non,,,5.25,2.75,3.8,3.7,intercontrat,4.0
+Entre 1 et 3 ans,Toulouse,Non,E,Coach,Product & Design,3.5,1.25,2.375,6.5,3.75,5.125,3.0,Non,,,3.25,1.5,5.0,3.1875,intercontrat,1.0
+Entre 1 et 3 ans,Chtis,Non,F,Coach,Product & Design,3.5,2.5,3.0,4.75,4.25,4.5,3.0,Non,,,4.75,4.0,3.8,3.8875,intercontrat,7.0
+Entre 3 et 7 ans,Toulouse,Non,G,Coach,Product & Design,4.0,5.25,4.625,3.0,6.0,4.5,3.0,Non,,,5.25,4.25,4.4,4.225,intercontrat,3.0
+Entre 1 et 3 ans,Chtis,Non,H,Coach,Product & Design,4.5,5.0,4.75,4.5,5.5,5.0,3.0,Oui,,3.0,4.0,4.5,3.2,3.54,intercontrat,4.0
+Entre 1 et 3 ans,Toulouse,Non,User Research,Coach,Product & Design,3.5,3.5,3.5,2.5,2.25,2.375,3.0,Oui,,3.0,4.0,4.5,4.0,3.7,intercontrat,7.0
+Entre 3 et 7 ans,OCTO Paris,Non,User Research,Coach,Product & Design,5.0,2.75,3.875,3.5,1.25,2.375,3.0,Oui,,3.0,7.0,3.5,2.8,3.8600000000000003,intercontrat,3.0
+Entre 1 et 3 ans,OCTO Paris,Non,User Research,Coach,Product & Design,5.5,3.5,4.5,3.5,2.5,3.0,3.0,Non,,,4.0,3.5,4.4,3.725,intercontrat,1.0
+Plus de 7 ans,OCTO Paris,Non,A,Coach,Product & Design,3.5,3.5,3.5,4.0,5.25,4.625,3.0,Non,,,3.25,4.25,5.0,3.875,intercontrat,6.0
+Entre 1 et 3 ans,OCTO Paris,Non,B,Coach,Product & Design,4.0,4.0,4.0,4.5,5.0,4.75,3.0,Non,,,3.5,4.0,3.8,3.575,intercontrat,4.0
+Entre 1 et 3 ans,OCTO Paris,Non,C,Coach,Product & Design,2.5,5.25,3.875,3.5,3.5,3.5,3.0,Non,,,2.75,4.75,4.0,3.625,intercontrat,3.0
+Entre 1 et 3 ans,OCTO Paris,Non,D,Coach,Product & Design,2.5,5.25,3.875,5.0,2.75,3.875,3.0,Non,,,5.0,6.25,4.6,4.7125,En mission chez un/des client(s),5.0
+Entre 1 et 3 ans,OCTO Paris,Non,E,Coach,Product & Design,3.5,5.75,4.625,5.5,3.5,4.5,3.0,Non,,,3.75,5.0,4.2,3.9875,En mission chez un/des client(s),2.5
+Entre 1 et 3 ans,OCTO Paris,Non,F,Produit,Product & Design,4.0,3.75,3.875,3.5,3.5,3.5,3.0,Oui,,3.0,3.25,2.75,5.2,3.44,En mission chez un/des client(s),5.5
+Entre 3 et 7 ans,Toulouse,Non,G,Produit,Product & Design,3.0,5.0,4.0,4.0,4.0,4.0,3.0,Oui,,3.0,4.5,3.5,3.0,3.4,En mission chez un/des client(s),3.5
+Entre 3 et 7 ans,Chtis,Non,H,Produit,Product & Design,2.75,4.0,3.375,2.5,5.25,3.875,3.0,Oui,,3.0,4.25,4.75,4.8,3.96,En mission chez un/des client(s),5.0
+Moins de 1 an,Toulouse,Non,User Research,Produit,Product & Design,4.25,3.75,4.0,2.5,5.25,3.875,3.0,Non,,,4.0,3.75,5.2,3.9875,En mission chez un/des client(s),7.0
+Moins de 1 an,Chtis,Non,User Research,Produit,Product & Design,3.5,2.25,2.875,3.5,5.75,4.625,3.0,Non,,,3.75,5.25,3.6,3.9,En mission chez un/des client(s),3.0
+Entre 1 et 3 ans,Toulouse,Non,User Research,Produit,Product & Design,4.0,6.25,5.125,4.0,3.75,3.875,3.0,Non,,,1.5,3.25,5.4,3.2875,En mission chez un/des client(s),2.5
+Entre 3 et 7 ans,OCTO Paris,Non,A,Produit,Product & Design,4.5,3.5,4.0,3.0,5.0,4.0,3.0,Non,,,2.75,5.0,4.0,3.6875,En mission chez un/des client(s),6.0
+Entre 3 et 7 ans,OCTO Paris,Non,B,Produit,Product & Design,4.75,5.25,5.0,4.75,3.75,4.25,3.0,Non,,,5.0,3.25,3.4,3.6625,En mission chez un/des client(s),3.0
+Entre 1 et 3 ans,OCTO Paris,Non,C,Produit,Product & Design,2.25,5.0,3.625,3.75,3.75,3.75,3.0,Non,,,4.5,5.25,4.6,4.3375,En mission chez un/des client(s),4.0
+Entre 3 et 7 ans,OCTO Paris,Non,D,Produit,Product & Design,5.25,5.0,5.125,5.25,2.75,4.0,3.0,Non,,,3.5,3.75,3.8,3.5125,En mission chez un/des client(s),2.5
+Entre 3 et 7 ans,OCTO Paris,Non,E,Produit,Product & Design,5.0,3.5,4.25,5.0,5.0,5.0,3.0,Non,,,3.25,4.25,5.6,4.025,En mission chez un/des client(s),5.5
+Entre 3 et 7 ans,OCTO Paris,Non,F,Produit,Product & Design,4.25,5.0,4.625,2.5,2.0,2.25,3.0,Non,,,3.0,4.5,3.6,3.525,En mission chez un/des client(s),3.5
+Entre 1 et 3 ans,OCTO Paris,Non,G,Produit,Product & Design,3.0,4.25,3.625,5.75,4.75,5.25,3.0,Non,,,4.5,4.75,3.4,3.9125,En mission chez un/des client(s),5.0
+Entre 1 et 3 ans,OCTO Paris,Non,H,Produit,Product & Design,4.75,2.75,3.75,4.75,4.25,4.5,3.0,Non,,,3.0,4.0,3.4,3.35,En mission chez un/des client(s),7.0
+Moins de 1 an,Toulouse,Non,User Research,Produit,Product & Design,5.5,6.0,5.75,3.75,4.75,4.25,3.0,Oui,,3.0,3.75,5.25,4.6,3.9200000000000004,En mission chez un/des client(s),3.5
+Entre 3 et 7 ans,Chtis,Non,User Research,Produit,Product & Design,4.75,4.0,4.375,3.25,3.25,3.25,3.0,Oui,,3.0,5.75,3.0,5.2,3.9899999999999998,En mission chez un/des client(s),3.0
+Entre 1 et 3 ans,Toulouse,Non,User Research,Produit,Product & Design,4.5,2.75,3.625,3.75,4.25,4.0,3.0,Oui,,3.0,5.25,4.5,5.6,4.2700000000000005,En mission chez un/des client(s),3.0
+Entre 1 et 3 ans,Chtis,Non,A,Produit,Product & Design,2.75,3.0,2.875,5.0,4.0,4.5,3.0,Non,,,3.75,4.25,3.6,3.65,En mission chez un/des client(s),3.5
+Entre 1 et 3 ans,Toulouse,Non,B,Produit,Product & Design,4.25,3.25,3.75,2.25,3.25,2.75,3.0,Non,,,5.5,4.0,4.2,4.175,En mission chez un/des client(s),1.5
+Plus de 7 ans,OCTO Paris,Non,C,Produit,Product & Design,3.75,6.0,4.875,5.0,3.25,4.125,3.0,Non,,,3.5,5.25,4.2,3.9875,En mission chez un/des client(s),3.5
+Entre 1 et 3 ans,OCTO Paris,Non,D,Produit,Product & Design,4.25,3.75,4.0,4.25,5.0,4.625,3.0,Non,,,2.75,5.75,5.8,4.325,En mission chez un/des client(s),3.5
+Entre 1 et 3 ans,OCTO Paris,Non,E,Produit,Product & Design,3.25,3.5,3.375,4.0,3.5,3.75,3.0,Non,,,3.5,2.75,4.6,3.4625,En mission chez un/des client(s),2.5
+Entre 1 et 3 ans,OCTO Paris,Non,F,Produit,Product & Design,4.0,3.5,3.75,3.25,4.0,3.625,3.0,Non,,,5.75,4.75,3.6,4.275,En mission chez un/des client(s),5.5
+Plus de 7 ans,OCTO Paris,Non,G,Produit,Product & Design,2.0,2.5,2.25,5.25,4.5,4.875,3.0,Oui,,3.0,4.5,5.5,5.0,4.2,En mission chez un/des client(s),5.0
+Entre 3 et 7 ans,OCTO Paris,Non,H,Produit,Product & Design,3.5,4.5,4.0,4.5,6.5,5.5,3.0,Oui,,3.0,3.75,3.5,4.6,3.5700000000000003,En mission chez un/des client(s),4.0
+Entre 1 et 3 ans,OCTO Paris,Non,User Research,Produit,Product & Design,5.25,5.0,5.125,4.25,3.25,3.75,3.0,Oui,,3.0,4.0,4.75,3.6,3.6700000000000004,En mission chez un/des client(s),5.0
+Entre 3 et 7 ans,OCTO Paris,Non,User Research,Produit,Product & Design,2.75,3.0,2.875,3.25,3.25,3.25,3.0,Non,,,3.5,3.75,2.6,3.2125,fonctions coeur,
+Entre 1 et 3 ans,Toulouse,Non,User Research,Produit,Product & Design,5.0,5.25,5.125,5.5,4.25,4.875,3.0,Non,,,3.5,2.25,4.6,3.3375,fonctions coeur,
+Entre 1 et 3 ans,Chtis,Non,A,Produit,Product & Design,3.5,4.75,4.125,4.75,3.5,4.125,3.0,Non,,,3.25,3.75,2.8,3.2,fonctions coeur,
+Moins de 1 an,Toulouse,Non,B,Produit,Product & Design,4.25,4.25,4.25,4.25,4.5,4.375,3.0,Non,,,4.5,5.0,4.8,4.325,fonctions coeur,
+Plus de 7 ans,Chtis,Non,C,Produit,Product & Design,4.0,4.75,4.375,3.75,4.0,3.875,3.0,Non,,,5.0,2.25,3.4,3.4125,fonctions coeur,
+Entre 1 et 3 ans,Toulouse,Non,D,Produit,Product & Design,5.25,5.25,5.25,3.25,4.0,3.625,3.0,Non,,,4.0,3.25,3.6,3.4625,fonctions coeur,
+Entre 1 et 3 ans,OCTO Paris,Non,E,Produit,Product & Design,3.75,3.5,3.625,3.5,1.75,2.625,3.0,Oui,,3.0,4.5,4.5,2.4,3.4799999999999995,fonctions coeur,
+Plus de 7 ans,OCTO Paris,Non,F,Produit,Product & Design,3.5,3.75,3.625,4.25,4.0,4.125,3.0,Oui,,3.0,3.5,4.0,4.2,3.54,fonctions coeur,
+Entre 3 et 7 ans,OCTO Paris,Non,G,Produit,Product & Design,2.5,4.5,3.5,4.25,3.75,4.0,3.0,Oui,,3.0,6.5,4.0,3.8,4.0600000000000005,fonctions coeur,
+Entre 1 et 3 ans,OCTO Paris,Non,H,Autre,Product & Design,5.75,4.0,4.875,4.25,2.25,3.25,3.0,Non,,,4.0,3.0,4.2,3.55,fonctions coeur,
+Plus de 7 ans,OCTO Paris,Non,User Research,Autre,Product & Design,2.25,3.5,2.875,6.5,3.75,5.125,3.0,Non,,,3.0,1.5,3.4,2.725,fonctions coeur,
+Entre 3 et 7 ans,OCTO Paris,Non,User Research,Autre,Product & Design,4.0,3.0,3.5,4.75,4.25,4.5,3.0,Non,,,3.5,2.75,3.4,3.1625,fonctions coeur,
+Entre 3 et 7 ans,OCTO Paris,Non,User Research,Autre,Product & Design,5.5,1.5,3.5,3.0,6.0,4.5,3.0,Non,,,5.0,4.0,2.8,3.7,fonctions coeur,
+Plus de 7 ans,OCTO Paris,Non,A,Autre,Product & Design,5.5,4.75,5.125,4.5,5.5,5.0,3.0,Non,,,4.25,3.0,3.8,3.5125,fonctions coeur,
+Plus de 7 ans,Toulouse,Non,B,Autre,Product & Design,3.75,2.5,3.125,2.5,2.25,2.375,3.0,Non,,,2.5,3.5,4.4,3.35,fonctions coeur,
+Entre 3 et 7 ans,Chtis,Non,C,Autre,Product & Design,4.5,2.75,3.625,3.5,1.25,2.375,3.0,Non,,,3.75,5.25,2.8,3.7,fonctions coeur,
+Entre 1 et 3 ans,Toulouse,Non,D,Autre,Product & Design,2.5,4.5,3.5,3.5,2.5,3.0,3.0,Non,,,3.5,3.75,3.8,3.5125,fonctions coeur,
+Entre 1 et 3 ans,Chtis,Non,E,Autre,Product & Design,2.5,4.75,3.625,4.0,5.25,4.625,3.0,Non,,,5.0,3.5,3.8,3.825,fonctions coeur,
